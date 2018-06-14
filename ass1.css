@@ -1,0 +1,20 @@
+.nav{
+	position: absolute;
+	width: 20%;
+	height: 200px;
+    background-color:pink;
+}
+.nav1{
+	position:relative ;
+	left:200px;
+	bottom:15px;
+	width:20%;
+	height:200px;
+	background-color: blue;
+}
+.nav2{
+	
+	width: 20%;
+	height: 200px;
+	background-color: green;
+}

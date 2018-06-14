@@ -1,0 +1,25 @@
+.nav{
+	position: relative;
+	height: 100px;
+	width:100px;
+	background-color: yellow;
+	bottom:8px;
+	left: 920px;
+	border-radius: 150px;
+}
+.nav1{
+	position: relative;
+	height: 100px;
+	width: 100px;
+	background-color: pink;
+	top:420px;
+	left:100px;
+}
+.luc{
+	position:static;
+	height:70px;
+	width:100%;
+	background-color: green;
+	top:590px;
+	
+	}

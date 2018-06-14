@@ -1,0 +1,38 @@
+.nav{
+	 position: static;
+	height:500px;
+	width:500px;
+	background-color: red;
+	border-color:black;
+	border-width: 5px;
+}
+.nav1{
+	position: relative;
+	bottom:450px;
+	height: 400px;
+	left:50px;
+	width: 400px;
+	background-color: orange;
+	border-color: black;
+	border-width: 5px;
+}
+.nav2{
+	position: relative;
+	bottom: 800px;
+	height:300px;
+	left:95px;
+	width:300px;
+	background-color: pink;
+	border-color: black;
+    border-width: 5px;
+}
+.nav3{
+	position: relative;
+	height: 200px;
+	bottom:1045px;
+	left:140px;
+	width:200px;
+	background-color: green;
+	border-color:black;
+    border-width: 5px;
+}

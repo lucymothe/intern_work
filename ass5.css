@@ -1,0 +1,56 @@
+.nav3{
+
+	position: absolute;
+
+	width: 20%;
+     top :550px;
+     left :1200px;
+
+	height: 200px;
+
+    background-color:pink;
+
+}
+
+.nav1{
+
+	position:relative ;
+	
+    left:1200px;
+
+	bottom:205px;
+
+	width:20%;
+
+	height:200px;
+
+	background-color: blue;
+
+}
+
+.nav2{
+
+	position: relative;
+
+	width: 20%;
+	
+                
+
+	top:140px;
+
+	height: 200px;
+
+    background-color:maroon;
+
+}
+
+.nav{
+	
+         width:20%;
+ 
+       height: 200px;
+
+    background-color: green;
+
+}
+

@@ -1,0 +1,13 @@
+.nav{
+	position: absolute;
+	width: 80%;
+	height: 100%;
+    background-color:pink;
+}
+.nav1{
+	position: relative;
+	left:80%;
+    width:20%;
+	height:100%;
+	background-color:green;
+}
