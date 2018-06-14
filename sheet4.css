@@ -1,0 +1,63 @@
+body
+
+{
+	
+outline: 300px;
+
+border-style: solid;
+
+border-color: grey;
+	
+width:500px;
+	
+height:300px;
+
+}
+
+p
+
+{
+	
+background-color: red;
+	
+width: 100px;
+	
+height: 100px;
+	
+margin-top:-0.5px;
+	
+float:left;
+
+}
+
+q
+
+{
+
+background-color:blue;
+	
+width: 300px;
+	
+height: 300px;
+	
+margin-top:-0.5px;
+	
+float:left;
+
+}
+
+r
+
+{
+	
+background-color:red;
+	
+width: 100px;
+	
+height: 200px;
+	
+margin-top:-0.5px;
+	
+float:left;
+
+}
